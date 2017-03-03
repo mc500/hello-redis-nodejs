@@ -8,5 +8,3 @@ applications:
   disk_quota: 1024M
   services:
   - Redis Cloud-lb
-  env:
-    BLUEMIX_APP_MGMT_ENABLE: devconsole shell inspector
