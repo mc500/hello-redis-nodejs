@@ -1,0 +1,12 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: hello-redis-nodejs
+  host: hello-redis-nodejs
+  disk_quota: 1024M
+  services:
+  - Redis Cloud-lb
+  env:
+    BLUEMIX_APP_MGMT_ENABLE: devconsole shell inspector
