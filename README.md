@@ -1,6 +1,6 @@
 # Hello Redis for Node.js
 
-This application demonstrates simple redis usages for Node.js web application based on the Express framework.
+This application demonstrates simple Redis usages for Node.js web application based on the Express framework.
 
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/mc500/hello-redis-nodejs)
 
