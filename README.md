@@ -9,7 +9,7 @@ This application demonstrates simple redis usages for Node.js web application ba
 1. [Install Node.js][]
 + cd into this project's root directory
 + Run `npm install` to install the app's dependencies
-+ Fill the configurations on config-local.json file
++ Fill the configurations on vcap-local.json file
 + Run `run.sh` or `run.bat` to start the app
 + Access the running app in a browser at <http://localhost:6001>
 
